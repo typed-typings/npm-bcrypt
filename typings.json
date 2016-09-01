@@ -1,0 +1,8 @@
+{
+  "name": "bcrypt",
+  "version": "0.8.0",
+  "main": "index.d.ts",
+  "globalDevDependencies": {
+    "node": "registry:env/node#6.0.0+20160824014937"
+  }
+}
