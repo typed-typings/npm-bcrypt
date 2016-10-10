@@ -35,7 +35,7 @@ declare namespace bcrypt {
    * @param data data to compare.
    * @param encrypted data to be compared to.
    */
-  export function compareSync (data: string, encrypted: string): string;
+  export function compareSync (data: string, encrypted: string): boolean;
 
   /**
    * Return the number of rounds used to encrypt a given hash.
