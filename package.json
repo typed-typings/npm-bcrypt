@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/types/npm-bcrypt#readme",
   "devDependencies": {
-    "bcrypt": "^1.0.0",
+    "bcrypt": "^5.0.0",
     "ts-node": "^4.0.0",
     "tslint": "^5.0.0",
     "tslint-config-typings": "^0.3.0",
